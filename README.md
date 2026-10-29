@@ -21,7 +21,6 @@ Web3 Library: Ethers.js v6
 Styling: Custom CSS with modern UI components and CSS animations
 
 📁 Repository Structure
-Plaintext
 micro-loan-dapp/
 ├── contracts/               # Hardhat smart contract development workspace
 │   ├── contracts/          # Solidity smart contracts
